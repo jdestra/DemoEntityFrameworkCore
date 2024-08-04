@@ -18,5 +18,6 @@ namespace DemoEntityFrameworkCore
         }
 
         public DbSet<Persona> Personas { get; set; }
+
     }
 }
